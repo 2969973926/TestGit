@@ -10,5 +10,6 @@ public class TestController {
         System.out.println("git2-----git hix");
         System.out.println("hello");
         System.out.println("nihaoly");
+        System.out.println("下午好,everyone");
     }
 }
