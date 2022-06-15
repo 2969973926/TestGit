@@ -11,5 +11,6 @@ public class TestController {
         System.out.println("hello");
         System.out.println("nihaoly");
         System.out.println("下午好,everyone");
+        System.out.println("2022/6/15 16:47");
     }
 }
